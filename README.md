@@ -1,6 +1,6 @@
 # Gemini-IMO-math-Agent
 Gemini IMO math Gold Agents that solve hard math problems
-# MIO: A Multi-Agent AI System for Solving IMO Problems
+**A Multi-Agent AI System for Solving IMO Problems**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
